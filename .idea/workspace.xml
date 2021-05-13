@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfa5d1d4-43ad-4ee3-aeec-2a4c218eec7c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ojemtBqyo4lOPhXcSzw658C4Uj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructureAndAlgo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Python\IO模型详解--理论及python实战" />
+      <recent name="D:\Code\Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Python\python高级\09迭代器和生成器" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="t02_monitor_browser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IO模型详解--理论及python实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IO模型详解--理论及python实战/t02_monitor_browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t03_multiple_port_monitor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IO模型详解--理论及python实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IO模型详解--理论及python实战/t03_multiple_port_monitor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t04_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IO模型详解--理论及python实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IO模型详解--理论及python实战/t04_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t04_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IO模型详解--理论及python实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IO模型详解--理论及python实战/t04_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.t02_monitor_browser" />
+      <item itemvalue="Python.t03_multiple_port_monitor" />
+      <item itemvalue="Python.t04_client" />
+      <item itemvalue="Python.t04_server" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.t04_client" />
+        <item itemvalue="Python.t04_server" />
+        <item itemvalue="Python.t03_multiple_port_monitor" />
+        <item itemvalue="Python.t02_monitor_browser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa5d1d4-43ad-4ee3-aeec-2a4c218eec7c" name="Default Changelist" comment="" />
+      <created>1599575344292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599575344292</updated>
+      <workItem from="1599575345733" duration="1682000" />
+      <workItem from="1599577054372" duration="1786000" />
+      <workItem from="1599578868295" duration="2102000" />
+      <workItem from="1599659238775" duration="1798000" />
+      <workItem from="1599661495264" duration="1790000" />
+      <workItem from="1599964312895" duration="1792000" />
+      <workItem from="1600002754325" duration="1787000" />
+      <workItem from="1600004567090" duration="1398000" />
+      <workItem from="1600007014886" duration="1848000" />
+      <workItem from="1600038067167" duration="1788000" />
+      <workItem from="1600039883915" duration="1700000" />
+      <workItem from="1600041734398" duration="1743000" />
+      <workItem from="1600093613991" duration="1317000" />
+      <workItem from="1600127187242" duration="627000" />
+      <workItem from="1600731898397" duration="1196000" />
+      <workItem from="1600733712836" duration="599000" />
+      <workItem from="1600817400756" duration="599000" />
+      <workItem from="1600819335900" duration="599000" />
+      <workItem from="1602047633072" duration="1285000" />
+      <workItem from="1602049482905" duration="1781000" />
+      <workItem from="1602051305350" duration="1955000" />
+      <workItem from="1602053355733" duration="1397000" />
+      <workItem from="1602055182323" duration="718000" />
+      <workItem from="1602597930378" duration="771000" />
+      <workItem from="1603116314405" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34659000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1138" y="408" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613890575585">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1138" y="408" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1613890575585" />
+    <state x="1147" y="463" key="FileChooserDialogImpl" timestamp="1614994450450">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1147" y="463" key="FileChooserDialogImpl/-1920.185.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1614994450449" />
+    <state x="860" y="347" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1614736112660" />
+    <state x="1146" y="462" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1614039180275" />
+    <state width="1350" height="298" key="GridCell.Tab.0.bottom" timestamp="1614935573884">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1350" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1614935573884" />
+    <state width="1173" height="328" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+    <state width="1350" height="298" key="GridCell.Tab.0.center" timestamp="1614935573883">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1350" height="298" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1614935573883" />
+    <state width="1173" height="328" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+    <state width="1350" height="298" key="GridCell.Tab.0.left" timestamp="1614935573883">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1350" height="298" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1614935573883" />
+    <state width="1173" height="328" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+    <state width="1350" height="298" key="GridCell.Tab.0.right" timestamp="1614935573884">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1350" height="298" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1614935573884" />
+    <state width="1173" height="328" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+    <state width="1173" height="328" key="GridCell.Tab.1.bottom" timestamp="1614065996560">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1173" height="328" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996560" />
+    <state width="1173" height="328" key="GridCell.Tab.1.center" timestamp="1614065996559">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1173" height="328" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+    <state width="1173" height="328" key="GridCell.Tab.1.left" timestamp="1614065996559">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1173" height="328" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+    <state width="1173" height="328" key="GridCell.Tab.1.right" timestamp="1614065996559">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1173" height="328" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1614065996559" />
+  </component>
+</project>
